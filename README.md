@@ -1,4 +1,4 @@
-# 🌟 \[CDIA\]LAB\_λ\_Introducción a Ciencia de Datos 🚀
+# 🌟 \[CDIA\]TP\_λ\_Introducción a Ciencia de Datos 🚀
 
 ¡Bienvenidos a este emocionante proyecto! 🎉 Aquí exploraremos los fundamentos de la ciencia de datos, aplicando lo aprendido en clases para dominar el análisis, limpieza y modelado de datos. ¡Prepárate para sumergirte en el mundo de los datos! 📊
 
