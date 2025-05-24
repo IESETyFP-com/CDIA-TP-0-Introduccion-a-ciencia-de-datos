@@ -1,34 +1,40 @@
-# [CDIA]LAB_λ_Introducción_a_ciencia_de_datos
+# 🌟 \[CDIA\]LAB\_λ\_Introducción a Ciencia de Datos 🚀
 
-Binvenidos a este nuevo proyecto donde veremos todo lo visto en clases
-referido al modulo de esta misma tematica.
+¡Bienvenidos a este emocionante proyecto! 🎉 Aquí exploraremos los fundamentos de la ciencia de datos, aplicando lo aprendido en clases para dominar el análisis, limpieza y modelado de datos. ¡Prepárate para sumergirte en el mundo de los datos! 📊
 
-# Requerimientos
+# 📋 Requerimientos
 
-## EDA (Exploratory data analysis)
+### 🔍 Análisis Exploratorio de Datos (EDA)
 
-- Explora el dataset y describe sus características principales (tamaño, tipos de datos, valores faltantes, distribuciones).
-- Identificar patrones, anomalías, correlaciones y estadísticas descriptivas (media, mediana, desviación estándar, etc.).
-- Visualizar datos mediante gráficos (histogramas, diagramas de dispersión, boxplots) para entender tendencias y distribuciones.
+- **Explora el dataset** y descubre sus secretos: tamaño, tipos de datos, valores faltantes y distribuciones. 🕵️‍♂️
+- Identifica **patrones**, anomalías, correlaciones y calcula estadísticas clave (media, mediana, desviación estándar, etc.). 📈
+- Crea **visualizaciones impactantes** (histogramas, diagramas de dispersión, boxplots) para revelar tendencias y comportamientos. 🎨
 
-## DW (Data wrangling)
+### 🧹 Data Wrangling
 
-- Luego del anterior analisis: limpia el dataset, maneja valores faltantes, elimina duplicados, corrige inconsistencias y normaliza los datos, de ser necesario.
-- Convertir tipos de datos, codificar variables categóricas (e.g., one-hot encoding), escalar características numéricas, o tratar outliers.
+- **Limpia y prepara** el dataset: maneja valores faltantes, elimina duplicados, corrige inconsistencias y normaliza los datos si es necesario. 🧼
+- Transforma los datos: convierte tipos, codifica variables categóricas (e.g., one-hot encoding) y escala características numéricas. ⚙️
+- Identifica outliers y decide cómo tratarlos para un dataset impecable. 💪
 
-## Predict model
+### 🤖 Modelo Predictivo
 
-- Construi un modelo super simple de regresion lineal para poder predecir.
+- Construye un **modelo de regresión lineal** súper simple para predecir resultados basados en los datos. 🧠
+- Entrena, evalúa y prepárate para predecir. 🔮
 
-# Entrega
+## 📦 Entrega
 
-## Informe
+### 📝 Informe
 
-- Documento con el paso a paso de lo realizado, con las consideraciones, justificaciones, toma de decisiones, conclusiones luego de hitos relevantes.
+- Un documento de Google Drive claro y detallado con el **paso a paso** de tu trabajo. 🗒️
+- Incluye **consideraciones**, justificaciones, decisiones clave y conclusiones tras cada hito importante. ✅
 
-## Notebook
+### 💻 Notebook
 
-- Notebook con el desarrollo de lo realizado.
-- Notebook preparado para poder realizar predicciones.
+- Un **Jupyter Notebook** en Google Colab con todo el desarrollo, listo para brillar. ✨
+- Asegúrate de que esté preparado para **realizar predicciones** sin complicaciones. 🚀
 
-## (Opcional) Paper de lo realizado
+### 📄 (Opcional) Paper
+
+- Redacta un **paper** profesional que resuma el trabajo. 🌍
+
+¡Manos a la obra, científico de datos! 🧑‍🔬 ¡Convierte datos en conocimiento y sorprende con tus resultados!
