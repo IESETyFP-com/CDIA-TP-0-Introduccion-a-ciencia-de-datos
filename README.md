@@ -33,7 +33,11 @@
 - Un **Jupyter Notebook** en Google Colab con todo el desarrollo, listo para brillar. ✨
 - Asegúrate de que esté preparado para **realizar predicciones** sin complicaciones. 🚀
 
-### 📄 (Opcional) Paper
+### 📔 (Plus) Repositorio
+
+- Un repositorio en Github para poder clonarlo y trabajarlo luego en caso de ser necesario.
+
+### 📄 (Opcional) Paper (0,1)
 
 - Redacta un **paper** profesional que resuma el trabajo. 🌍
 
